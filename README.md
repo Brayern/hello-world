@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 A simple repository and A walthrough life Story
 
 Brayern here...loves challenges from any field;education,sports and entertainment.
